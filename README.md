@@ -4,9 +4,9 @@ An Alluring, Dark, and Muted Theme For IntelliJ IDEs (Android Studio, IDEA, WebS
 ## About
 Cognac is a theme composed of 11 colors that are easy on the eyes on both normal and light-reduced screens. All of the chosen colors are adjacent or complimentary to each other on the color wheel, excluding the black and gray colors.
 
-_Note: this was converted using [https://github.com/JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool), and hasn't yet been hand-tweaked to match the Cognac theme on other IDEs yet._
-
 Cognac is available for many other editors at http://github.com/ArtSabintsev/Cognac.
+
+_Note: this was converted using [https://github.com/JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool), and hasn't yet been hand-tweaked to match the Cognac theme on other IDEs yet._
 
 ## Screenshot
 <img src="Example.png" height="600">
