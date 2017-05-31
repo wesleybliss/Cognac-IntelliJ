@@ -1,5 +1,5 @@
 # Cognac 🥃 for Sublime
-An Alluring, Dark, and Muted Theme For IntelliJ.
+An Alluring, Dark, and Muted Theme For IntelliJ IDEs (Android Studio, IDEA, WebStorm, etc.)
 
 ## About
 Cognac is a theme composed of 11 colors that are easy on the eyes on both normal and light-reduced screens. All of the chosen colors are adjacent or complimentary to each other on the color wheel, excluding the black and gray colors.
